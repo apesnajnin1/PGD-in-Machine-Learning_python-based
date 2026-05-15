@@ -1,0 +1,2 @@
+import pandas as pd
+df = pd.read_csv('/home/dean/Desktop/Lecture/Machine Learning/Codes/student_habits_performance.csv')
